@@ -10,7 +10,7 @@ Danh sách các thư viện được sử dụng.
  - pacel bundler.
  - axios.
  - bootstrap.
- - swiper.
+ - jquery
 
 Chức năng.
  - Xem danh sách sản phẩm.
