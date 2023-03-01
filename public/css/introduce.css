@@ -1,0 +1,106 @@
+.container-introduce{
+    margin-top: 40px;
+}
+.introduce-header-menu{
+    display: inline;
+}
+.introduce-header-menu .intro-menuindex{
+    padding-right: 10px;
+    color: #999999;
+    font-size: 13px;
+    font-weight: 100;
+}
+.introduce-header-menu .intro-menuindex:hover{
+    color: #f25862;
+}
+.introduce-header-menu .intro-menu-gioithieu{
+    color: #555;
+    font-size: 13px;
+    font-weight: 100;
+}
+.introduce-info{
+    margin-top: 80px;
+    display: flex;
+    width: 100%;
+}
+.introduce-info-title{
+    width: 50%;
+}
+.introduce-info-title h3{
+    font-size: 30px;
+    font-weight: 100;
+    color: #a9a9a9;
+    text-transform: uppercase;
+}
+.introduce-info-title h2{
+    font-size: 100px;
+    font-family: Montserrat;
+    color: #333333;
+}
+
+.introduce-info-contact{
+    width: 50%;
+    padding-left: 30px;
+}
+.introduce-info-address{
+    display: flex;
+}
+.introduce-info-address h2{
+    font-weight: 450;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: Montserrat;
+    padding-bottom: 10px;
+}
+.introduce-info-address p{
+    font-size: 14px;
+    color: #555;
+    line-height: 20px;
+}
+.introduce-info-history p{
+    font-size: 15px;
+    color: #555;
+    line-height: 22px;
+    margin-top: 15px;
+}
+
+/*  Nghiêp vụ */
+.introduce-info-title img{
+    width: 100%;
+    object-fit: fill;
+}
+.introduce-info-nghiepvu h2{
+    font-size: 30px;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    font-weight: 400;
+    padding-bottom: 20px;
+    color: #333333;
+}
+.vc_single_bar{
+    margin-bottom: 15px;
+    width: 100%;
+    background: #a9a9a9;
+    padding: 20px 10px 10px 0 ;
+    position: relative;
+}
+.vc_label,
+.vc_label_units{
+    color: #ffffff;
+    padding-left: 10px;
+    top: 0;
+    position: absolute;
+    z-index: 1;
+    padding-top: 8px;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+.vc_bar{
+    background-color: #2A2A2A;
+    display: block;
+    height: 100%;
+    position: absolute;
+    top:0;
+    border-radius: 0 3px 3px 0;
+}

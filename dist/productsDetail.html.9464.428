@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/productsDetail.d33e6f05.js"></script><script src="/productsDetail.c6b7b632.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi tiết sản phẩm</title>
+    <link rel="stylesheet" href="/productsDetail.2c57eab7.css">
+    <link rel="stylesheet" href="#">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800&family=Raleway:wght@200;300;400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <header id="header">
+            <section class="header-top">
+                <div class="container">
+                    <div class="header-admin">
+                        <div class="header-admin-left">
+                            <div class="vietnam">
+                                <img src="/viet-nam-flag-vi.2d29be2c.jpg">
+                                <a>Việt Nam</a>
+                            </div>
+                            <div class="phone-number">
+                                <p> Điện thoại : (+84) 0932 307 248</p>
+                            </div>
+                        </div>
+                        <div class="header-admin-right">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fa-solid fa-user"></i></a>
+                                </li>
+                                <li>
+                                    <a href="#"><i class="fas fa-shopping-cart"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="header-dow">
+                <div class="container">
+                    <div class="menu">
+                        <div class="logo-shop">
+                            <a href="/index.html">
+                                <img src="/i-n-may-logo.6e487361.png" alt="logo shop quan">
+                            </a>
+                        </div>
+                        <div class="menu-list">
+                            <ul>
+                                <li><a href="/index.html">Trang chủ</a></li>
+                                <li><a href="#">Giới thiệu</a></li>
+                                <li><a href="#">Cửa hàng</a></li>
+                                <li><a href="#">Tin tức</a></li>
+                                <li><a href="#">Câu hỏi thường gặp</a></li>
+                                <li><a href="#">Liên hệ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </header>
+
+
+        <section class="productsDetail">
+
+            <div class="container">
+
+                <h1 class="productsDetail_title">/ Chi tiết sản phẩm <span>.</span></h1>
+                <div class="container_productsDetail">
+                    <!-- List ra màn hình -->
+
+                </div>
+            </div>
+    </section></div>
+
+
+    
+
+
+    <footer class="footer">
+        <div class="footer-navbar">
+            <div class="container">
+                <div class="list-navbar">
+                    <div class="contact-if item-footer">
+                        <div class="logo-shop-footer">
+                            <a href=""><img src="/custom-logo-1.0f19023e.png" alt=""></a>
+                        </div>
+                        <div class="address-contact">
+                            <h3>Về chúng tôi</h3>
+                            <p><i class="fa-solid fa-fax"></i> 1900 1999</p>
+                            <p><i class="fa-solid fa-phone-flip"></i> (84) 0932 307 248</p>
+                            <p><i class="fa-solid fa-envelope"></i> quannvpd06465@fpt.edu.vn</p>
+                        </div>
+                    </div>
+                    <div class="chinhsach item-footer">
+                        <h3>Chính sách</h3>
+                        <div class="list-menu-footer">
+                            <ul>
+                                <a href="">
+                                    <li>Tìm kiếm</li>
+                                </a>
+                                <a href="">
+                                    <li>Quản lí</li>
+                                </a>
+                                <a href="">
+                                    <li>Đăng nhập</li>
+                                </a>
+                                <a href="">
+                                    <li>Đăng ký</li>
+                                </a>
+                                <a href="">
+                                    <li>Cộng tác viên</li>
+                                </a>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="thongtin item-footer">
+                        <h3>Thông tin</h3>
+                        <div class="list-menu-footer">
+                            <ul>
+                                <a href="">
+                                    <li>Về Chúng Tôi</li>
+                                </a>
+                                <a href="">
+                                    <li>Tuyển Dụng</li>
+                                </a>
+                                <a href="">
+                                    <li> Tin tức</li>
+                                </a>
+                                <a href="">
+                                    <li>Đăng ký</li>
+                                </a>
+                                <a href="">
+                                    <li>Tài liệu</li>
+                                </a>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="quetsion item-footer">
+                        <h3>Câu hỏi thường gặp</h3>
+                        <div class="list-menu-footer">
+                            <ul>
+                                <a href="">
+                                    <li>Chương trình ưu đãi</li>
+                                </a>
+                                <a href="">
+                                    <li>Chất lượng sản phẩm</li>
+                                </a>
+                                <a href="">
+                                    <li>Những vấn đề phát sinh</li>
+                                </a>
+                                <a href="">
+                                    <li>Lần đầu tiên đặt hàng</li>
+                                </a>
+                                <a href="">
+                                    <li>Sản phẩm</li>
+                                </a>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-ifdesign">
+            <div class="container">
+                <div class="container-ifdesign">
+                    <p>Copyright by Nguyễn Viết Quân</p>
+                    <div class="pay">
+                        <img src="/payment.73bd06fc.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous" defer=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous" defer=""></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous" defer=""></script>
+    <script src="/productsDetail.1a08d12d.js" defer=""></script>
+    <script src="/index.dcb599bd.js" defer=""></script>
+
+
+</body>
+
+</html>
